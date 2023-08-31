@@ -1,0 +1,21 @@
+Workout Tracker
+***************
+Description
+	Android app in which users can 
+see different workout routines,calories burnt, 
+add or remove different activities to their daily schedule,
+and track their activities. 
+
+Modules needed
+1)Login/Signup(userdetails,age,height,weight)
+2)Homepage (choosing desired category) 
+3)Workout plans (contains workout templates)
+4)progress tracking
+5)Remainders and Notifications
+
+Language to be used
+
+
+Database to be used
+
+
