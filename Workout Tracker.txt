@@ -1,5 +1,5 @@
 Workout Tracker
-***************
+
 Description
 	Android app in which users can 
 see different workout routines,calories burnt, 
